@@ -1,1 +1,0 @@
-# Potato-Leave-Disease-Detection
